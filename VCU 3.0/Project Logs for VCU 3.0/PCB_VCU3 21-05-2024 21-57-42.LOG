@@ -1,0 +1,44 @@
+Added Component: Designator=LED600(LEDC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/led/datasheet/150080BS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080BS75000?qs=2kOmHSv6VfT2tBo3UPVqAQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=LED601(LEDC2012X80N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://katalog.we-online.com/led/datasheet/150080BS75000.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.8mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "710-150080BS75000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/150080BS75000?qs=2kOmHSv6VfT2tBo3UPVqAQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=R608(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=R609(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+24V Pin=LED600-2
+Added Pin To Net: NetName=+24V Pin=LED601-2
+Added Pin To Net: NetName=MOSFET_A_(R2D)_IN Pin=R608-1
+Added Pin To Net: NetName=MOSFET_B_IN Pin=R609-1
+Change Net Color : Old Net Color=Red New Net Color=Red
+Change Net Color : Old Net Color=RGB(67, 67, 67) New Net Color=RGB(67, 67, 67)
+Added Pin To Net: NetName=NetLED600_1 Pin=LED600-1
+Added Pin To Net: NetName=NetLED600_1 Pin=R608-2
+Added Net: Name=NetLED600_1
+Added Pin To Net: NetName=NetLED601_1 Pin=LED601-1
+Added Pin To Net: NetName=NetLED601_1 Pin=R609-2
+Added Net: Name=NetLED601_1
+Added Member To Class: ClassName=MOSFETS Member=Component LED600 150080BS75000
+Added Member To Class: ClassName=MOSFETS Member=Component LED601 150080BS75000
+Added Member To Class: ClassName=MOSFETS Member=Component R608 R0805
+Added Member To Class: ClassName=MOSFETS Member=Component R609 R0805

@@ -1,0 +1,86 @@
+Added Component: Designator=IC200(QFP50P1200X1200X120-64N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "PIC32MK1024MCM064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/pic32mk1024mcm064-ipt/microchip-technology?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/PIC32MK-GPK-MCM-with-CAN-FD-Family-DataSheet-DS60001519E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Microchip"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "PIC32MK1024MCM064-I/PT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "579-2MK1024MCM064IPT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Microchip-Technology/PIC32MK1024MCM064-I-PT?qs=W%2FMpXkg%252BdQ4dBI32NJdQMg%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Q600(DPAK_(SINGLE-GAUGE)_TO-252(369C)_ISSUE_F)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nvd5c478nt4g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NVD5C478N-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NVD5C478NT4G/?qs=y6ZabgHbY%252Bxvq0EyOcHTlg%3D%3D"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found DPAK_(SINGLE-GAUGE)_TO-252(369C)_ISSUE_F
+Added Pin To Net: NetName=RX_CAN_1 Pin=IC200-1
+Added Pin To Net: NetName=TX_CAN_2 Pin=IC200-2
+Added Pin To Net: NetName=TX_CAN_1 Pin=IC200-3
+Added Pin To Net: NetName=RX_CAN_3 Pin=IC200-4
+Added Pin To Net: NetName=RX_CAN_2 Pin=IC200-5
+Added Pin To Net: NetName=TX_CAN_3 Pin=IC200-6
+Added Pin To Net: NetName=MCLR Pin=IC200-7
+Added Pin To Net: NetName=INT1 Pin=IC200-8
+Added Pin To Net: NetName=GND Pin=IC200-9
+Added Pin To Net: NetName=+3V3 Pin=IC200-10
+Added Pin To Net: NetName=AN9 Pin=IC200-12
+Added Pin To Net: NetName=AN0-APPS1 Pin=IC200-13
+Added Pin To Net: NetName=TX_CAN_4 Pin=IC200-14
+Added Pin To Net: NetName=RX_CAN_4 Pin=IC200-15
+Added Pin To Net: NetName=AN4-APPS1 Pin=IC200-16
+Added Pin To Net: NetName=PGEC1 Pin=IC200-17
+Added Pin To Net: NetName=PGED1 Pin=IC200-18
+Added Pin To Net: NetName=+3V3 Pin=IC200-19
+Added Pin To Net: NetName=GND Pin=IC200-20
+Added Pin To Net: NetName=U1TX Pin=IC200-21
+Added Pin To Net: NetName=U1RX Pin=IC200-22
+Added Pin To Net: NetName=AN8 Pin=IC200-23
+Added Pin To Net: NetName=ONBOARD_LED Pin=IC200-24
+Added Pin To Net: NetName=GND Pin=IC200-25
+Added Pin To Net: NetName=+3V3 Pin=IC200-26
+Added Pin To Net: NetName=SDA4 Pin=IC200-27
+Added Pin To Net: NetName=SCL4 Pin=IC200-28
+Added Pin To Net: NetName=AN14 Pin=IC200-29
+Added Pin To Net: NetName=AN15 Pin=IC200-30
+Added Pin To Net: NetName=INT3 Pin=IC200-31
+Added Pin To Net: NetName=NetIC200_32 Pin=IC200-32
+Added Pin To Net: NetName=NetIC200_33 Pin=IC200-33
+Added Pin To Net: NetName=+3V3 Pin=IC200-35
+Added Pin To Net: NetName=+3V3 Pin=IC200-38
+Added Pin To Net: NetName=OSCI Pin=IC200-39
+Added Pin To Net: NetName=OSCO Pin=IC200-40
+Added Pin To Net: NetName=GND Pin=IC200-41
+Added Pin To Net: NetName=NetIC200_42 Pin=IC200-42
+Added Pin To Net: NetName=GPIO_RB5 Pin=IC200-43
+Added Pin To Net: NetName=GPIO_RB6 Pin=IC200-44
+Added Pin To Net: NetName=RC10 Pin=IC200-45
+Added Pin To Net: NetName=RB7 Pin=IC200-46
+Added Pin To Net: NetName=RC13 Pin=IC200-47
+Added Pin To Net: NetName=RB8 Pin=IC200-48
+Added Pin To Net: NetName=OC14 Pin=IC200-50
+Added Pin To Net: NetName=OC13 Pin=IC200-51
+Added Pin To Net: NetName=OC12 Pin=IC200-52
+Added Pin To Net: NetName=PWM12H Pin=IC200-53
+Added Pin To Net: NetName=GPIO_RD6 Pin=IC200-54
+Added Pin To Net: NetName=GPIO_RC9 Pin=IC200-55
+Added Pin To Net: NetName=GND Pin=IC200-56
+Added Pin To Net: NetName=+3V3 Pin=IC200-57
+Added Pin To Net: NetName=PWM11H Pin=IC200-58
+Added Pin To Net: NetName=LED_debug_6 Pin=IC200-59
+Added Pin To Net: NetName=LED_debug_5 Pin=IC200-60
+Added Pin To Net: NetName=LED_debug_4 Pin=IC200-61
+Added Pin To Net: NetName=LED_debug_3 Pin=IC200-62
+Added Pin To Net: NetName=LED_debug_2 Pin=IC200-63
+Added Pin To Net: NetName=LED_debug_1 Pin=IC200-64
+Added Pin To Net: NetName=NetQ600_1 Pin=Q600-1
+Added Pin To Net: NetName=GND Pin=Q600-2
+Added Pin To Net: NetName=MOSFET_A_(R2D)_IN Pin=Q600-3
+Add Pin To Net: Unknown Pin: Pin Q602-1
+Add Pin To Net: Unknown Pin: Pin Q602-2
+Add Pin To Net: Unknown Pin: Pin Q602-3
+Added Member To Class: ClassName=PIC32 Member=Component IC200 PIC32MK1024MCM064-I_PT
+Added Member To Class: ClassName=MOSFETS Member=Component Q600 NVD5C478NT4G
+Add Class Member: Failed to add class member : Component Q602 NVD5C478NT4G

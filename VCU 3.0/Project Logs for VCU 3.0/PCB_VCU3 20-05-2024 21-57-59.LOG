@@ -1,0 +1,12 @@
+Added Component: Designator=Q602(DPAK_(SINGLE-GAUGE)_TO-252(369C)_ISSUE_F)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/nvd5c478nt4g/on-semiconductor?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.onsemi.com/pub/Collateral/NVD5C478N-D.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "onsemi"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "863-NVD5C478NT4G"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/ON-Semiconductor/NVD5C478NT4G/?qs=y6ZabgHbY%252Bxvq0EyOcHTlg%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetQ602_1 Pin=Q602-1
+Added Pin To Net: NetName=GND Pin=Q602-2
+Added Pin To Net: NetName=MOSFET_B_IN Pin=Q602-3
+Added Member To Class: ClassName=MOSFETS Member=Component Q602 NVD5C478NT4G
