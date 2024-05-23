@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=GPIO_RC9 Pin=J501-22
+Removed Pin From Net: NetName=+24V Pin=LED600-2
+Removed Pin From Net: NetName=+24V Pin=LED601-2
+Added Component: Designator=T200(Pin_header_4)
+Added Pin To Net: NetName=+3V3 Pin=LED600-2
+Added Pin To Net: NetName=+3V3 Pin=LED601-2
+Added Pin To Net: NetName=GND Pin=T200-1
+Added Pin To Net: NetName=+5V Pin=T200-2
+Added Pin To Net: NetName=U1RX Pin=T200-3
+Added Pin To Net: NetName=U1TX Pin=T200-4
+Added Pin To Net: NetName=GPIO_RB9 Pin=IC200-49
+Added Pin To Net: NetName=GPIO_RB9 Pin=J501-22
+Added Net: Name=GPIO_RB9
+Added Member To Class: ClassName=PIC32 Member=Component T200 Pin_header_4

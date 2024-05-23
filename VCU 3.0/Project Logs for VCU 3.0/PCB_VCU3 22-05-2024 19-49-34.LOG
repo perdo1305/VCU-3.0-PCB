@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=GND Pin=MTH501-1
+Removed Pin From Net: NetName=GND Pin=MTH502-1
+Change Component Designator: OldDesignator=T201 NewDesignator=T?
+Added Pin To Net: NetName=GND_I Pin=MTH501-1
+Added Pin To Net: NetName=GND_I Pin=MTH502-1

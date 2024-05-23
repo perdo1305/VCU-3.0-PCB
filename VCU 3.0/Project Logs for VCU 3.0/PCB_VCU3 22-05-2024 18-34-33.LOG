@@ -1,0 +1,6 @@
+Added Component: Designator=T201(Pin_header_4)
+Added Pin To Net: NetName=GND Pin=T201-1
+Added Pin To Net: NetName=+3V3 Pin=T201-2
+Added Pin To Net: NetName=SCL4 Pin=T201-3
+Added Pin To Net: NetName=SDA4 Pin=T201-4
+Added Member To Class: ClassName=PIC32 Member=Component T201 Pin_header_4

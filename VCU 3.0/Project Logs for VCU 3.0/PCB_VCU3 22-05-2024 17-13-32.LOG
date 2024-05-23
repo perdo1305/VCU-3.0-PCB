@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=MOSFET_B_IN Pin=J501-7
+Removed Pin From Net: NetName=MOSFET_A_(R2D)_IN Pin=J501-8
+Added Pin To Net: NetName=MOSFET_A_(R2D)_IN Pin=J501-7
+Added Pin To Net: NetName=MOSFET_B_IN Pin=J501-8
