@@ -1,0 +1,12 @@
+Added Component: Designator=D500(SOD-323)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D501(SOD-323)
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=D500-A
+Added Pin To Net: NetName=AN8 Pin=D500-K
+Added Pin To Net: NetName=GND Pin=D501-A
+Added Pin To Net: NetName=AN9 Pin=D501-K
+Added Member To Class: ClassName=OUTPUT Member=Component D500 D_SCHOTTKY_SOD_323
+Added Member To Class: ClassName=OUTPUT Member=Component D501 D_SCHOTTKY_SOD_323

@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=OSCI Pin=C207-2
+Removed Pin From Net: NetName=GND_I Pin=MTH502-1
+Change Component Footprint: Designator=Y200 Old Footprint=ABM38000MHZC4T New Footprint=830106162701
+Change Component Comment : Designator=Y200 Old Comment=??? New Comment=830106162701
+Change Component Designator: OldDesignator=T? NewDesignator=T201
+Change component parameters: Designator = "Y200" ("Y200"); Footprint = "ABM38000MHZC4T"; UniqueID = "\GLWXWITE" ("\GLWXWITE")
+Change component parameters (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://www.we-online.com/components/products/datasheet/830106162701.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "830106162701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "710-830106162701"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Wurth-Elektronik/830106162701?qs=hd1VzrDQEGiB2nVeND4SIw%3D%3D"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OSCI Pin=C208-2
+Added Pin To Net: NetName=GND Pin=Y200-2
+Added Pin To Net: NetName=GND Pin=Y200-4
+Added Pin To Net: NetName=NetC207_2 Pin=C207-2
+Added Pin To Net: NetName=NetC207_2 Pin=R207-1
+Added Pin To Net: NetName=NetC207_2 Pin=Y200-3
+Added Net: Name=NetC207_2
