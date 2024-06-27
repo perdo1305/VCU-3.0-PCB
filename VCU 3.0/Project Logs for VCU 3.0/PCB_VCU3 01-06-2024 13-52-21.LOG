@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=AN9 Pin=IC500-1
+Added Component: Designator=R512(RES_0805)
+Add component (AddParameter): Name = "Distributor Link"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=CurrentSensor Pin=R512-1
+Added Pin To Net: NetName=NetIC500_1 Pin=IC500-1
+Added Pin To Net: NetName=NetIC500_1 Pin=R512-2
+Added Net: Name=NetIC500_1
+Added Member To Class: ClassName=OUTPUT Member=Component R512 R0805
